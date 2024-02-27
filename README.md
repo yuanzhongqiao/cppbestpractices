@@ -1,14 +1,12 @@
-# cppbestpractices
-
-[![Join the chat at https://gitter.im/lefticus/cppbestpractices](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lefticus/cppbestpractices?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-Collaborative Collection of C++ Best Practices
-
-For more information please see the [Preface](01-Preface.md).
-
-This online resource is part of Jason Turner's collection of C++ Best Practices resources.
-
-* [C++ Best Practices Book](https://leanpub.com/cppbestpractices)
-* [C++ Weekly YouTube Channel](https://www.youtube.com/user/lefticus1)
-* [The Ultimate CMake/C++ Starter Project](https://github.com/lefticus/cpp_starter_project/)
-* [Learning C++ Best Practices - O'Reilly Video](http://shop.oreilly.com/product/0636920049814.do)
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cpp最佳实践</font></font></h1><a id="user-content-cppbestpractices" class="anchor-element" aria-label="永久链接：cpp最佳实践" href="#cppbestpractices"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://gitter.im/lefticus/cppbestpractices?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge" rel="nofollow"><img src="https://camo.githubusercontent.com/2da7039d862cabe847953554272000b86e80b158a0723c9a832720b935df3f43/68747470733a2f2f6261646765732e6769747465722e696d2f4a6f696e253230436861742e737667" alt="加入聊天：https://gitter.im/lefticus/cppbestpractices" data-canonical-src="https://badges.gitter.im/Join%20Chat.svg" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C++ 最佳实践协作集</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欲了解更多信息，请参阅</font></font><a href="/cpp-best-practices/cppbestpractices/blob/master/01-Preface.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">前言</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此在线资源是 Jason Turner 的 C++ 最佳实践资源集合的一部分。</font></font></p>
+<ul dir="auto">
+<li><a href="https://leanpub.com/cppbestpractices" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C++ 最佳实践书籍</font></font></a></li>
+<li><a href="https://www.youtube.com/user/lefticus1" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C++ 每周 YouTube 频道</font></font></a></li>
+<li><a href="https://github.com/lefticus/cpp_starter_project/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">终极 CMake/C++ 入门项目</font></font></a></li>
+<li><a href="http://shop.oreilly.com/product/0636920049814.do" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习 C++ 最佳实践 - O'Reilly 视频</font></font></a></li>
+</ul>
+</article></div>
